@@ -1,0 +1,21 @@
+#answer {
+    height: 25vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 5px solid;
+    
+
+   
+}
+body {
+    background: grey;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+label {
+    font-size: 25px;
+}
